@@ -1,0 +1,24 @@
+{
+  "name": "leet-code-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --onlyChanged --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuheb/leet-code-session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuheb/leet-code-session/issues"
+  },
+  "homepage": "https://github.com/shuheb/leet-code-session#readme",
+  "dependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1"
+  }
+}
